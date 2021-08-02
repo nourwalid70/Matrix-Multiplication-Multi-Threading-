@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1621276129 source:/home/nour/Desktop/Lab2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<string.h>
+	"ReadFromFile.h"
+	"main.h"
+	"WriteInFile.h"
+
+1621276198 /home/nour/Desktop/Lab2/ReadFromFile.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621278389 /home/nour/Desktop/Lab2/main.h
+	"ReadFromFile.h"
+	<time.h>
+	<pthread.h>
+
+1621276289 /home/nour/Desktop/Lab2/WriteInFile.h
+	"main.h"
+
+1621278406 source:/home/nour/Desktop/Lab2/ReadFromFile.c
+	"ReadFromFile.h"
+
+1621276265 source:/home/nour/Desktop/Lab2/WriteInFile.c
+	"WriteInFile.h"
+
